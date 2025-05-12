@@ -1,0 +1,20 @@
+### app/templates/chat_demo.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Gemini 챗봇 데모</title>
+</head>
+<body>
+    <h1>💬 Gemini 챗봇</h1>
+    <form method="post">
+        <input type="text" name="question" placeholder="무엇이든 물어보세요">
+        <button type="submit">질문하기</button>
+    </form>
+
+    {% if result %}
+    <h2>Gemini의 응답:</h2>
+    <p>{{ result }}</p>
+    {% endif %}
+</body>
+</html>

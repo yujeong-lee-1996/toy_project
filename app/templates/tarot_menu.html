@@ -1,0 +1,24 @@
+### app/templates/tarot_menu.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>타로 카드 리딩</title>
+</head>
+<body>
+    <h1>🔮 타로 카드 리딩</h1>
+
+    <h2>랜덤 리딩</h2>
+    <a href="/tarot/draw-random">랜덤 3장 뽑기</a>
+
+    <h2>직접 카드 선택</h2>
+    <form action="/tarot/draw-select" method="post">
+        {% for card in ["The Fool", "The Magician", "The High Priestess", "The Empress"] %}
+        <label>
+            <input type="checkbox" name="cards" value="{{ card }}"> {{ card }}
+        </label><br>
+        {% endfor %}
+        <button type="submit">선택한 카드로 리딩</button>
+    </form>
+</body>
+</html>

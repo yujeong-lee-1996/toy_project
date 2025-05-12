@@ -1,0 +1,134 @@
+[
+  {
+    "name": "The Fool",
+    "image_filename": "the_fool.jpg",
+    "upright": "시작, 자유, 순수함, 독창성, 모험, 이상주의, 자발성",
+    "reversed": "무모한, 부주의한, 주의가 산만한, 순진한, 어리석은, 속기 쉬운, 진부한, 지루한"
+  },
+  {
+    "name": "The Magician",
+    "image_filename": "the_magician.jpg",
+    "upright": "의지력, 욕망, 수완, 기술, 능력, 집중력, 표현",
+    "reversed": "조작, 교활함, 속임수, 재능 낭비, 환상, 기만"
+  },
+  {
+    "name": "The High Priestess",
+    "image_filename": "the_high_priestess.jpg",
+    "upright": "무의식, 직관, 신비, 영성, 더 높은 힘, 내면의 목소리",
+    "reversed": "억압된 직관, 숨겨진 동기, 피상성, 혼란, 인지 부조화"
+  },
+  {
+    "name": "The Empress",
+    "image_filename": "the_empress.jpg",
+    "upright": "신성한 여성성, 관능, 다산성, 양육, 창의성, 아름다움, 풍요, 자연",
+    "reversed": "불안, 권위주의, 방치, 억압, 성장 부족, 진전 부족"
+  },
+  {
+    "name": "The Emperor",
+    "image_filename": "the_emperor.jpg",
+    "upright": "안정성, 구조, 보호, 권위, 통제, 실용성, 집중력, 규율",
+    "reversed": "폭군, 독선적, 완고함, 고집, 규율 부족, 무모함"
+  },
+  {
+    "name": "The Hierophant",
+    "image_filename": "the_hierophant.jpg",
+    "upright": "전통, 사회 집단, 관습, 순응, 교육, 지식, 신념",
+    "reversed": "반항, 비전통성, 비순응, 새로운 방법, 무지"
+  },
+  {
+    "name": "The Lovers",
+    "image_filename": "the_lovers.jpg",
+    "upright": "사랑, 결합, 파트너십, 관계, 선택, 로맨스, 균형, 단결",
+    "reversed": "불화, 불균형, 갈등, 초연함, 나쁜 선택, 우유부단함"
+  },
+  {
+    "name": "The Chariot",
+    "image_filename": "the_chariot.jpg",
+    "upright": "성공, 야망, 결단력, 의지력, 통제력, 자기 훈련, 집중력",
+    "reversed": "강압적, 방향성 없음, 통제력 없음, 무력함, 공격성, 장애물"
+  },
+  {
+    "name": "Strength",
+    "image_filename": "strength.jpg",
+    "upright": "용기, 담대함, 자신감, 연민, 자신감, 내면의 힘",
+    "reversed": "자기 의심, 약점, 낮은 자신감, 부족함, 비겁함, 강압감"
+  },
+  {
+    "name": "The Hermit",
+    "image_filename": "the_hermit.jpg",
+    "upright": "자기성찰, 내성, 묵상, 물러남, 고독, 자아 탐색",
+    "reversed": "외로움, 고립, 은둔, 반사회적, 거부, 사회 복귀"
+  },
+  {
+    "name": "Wheel of Fortune",
+    "image_filename": "wheel_of_fortune.jpg",
+    "upright": "변화, 순환, 운명, 결정적인 순간, 행운, 재산, 예상치 못한 사건",
+    "reversed": "불운, 통제력 부족, 통제에 대한 집착, 환영받지 못하는 변화, 지연"
+  },
+  {
+    "name": "Justice",
+    "image_filename": "justice.jpg",
+    "upright": "정의, 업보, 결과, 책임, 법, 진실, 정직, 성실, 원인과 결과",
+    "reversed": "불의, 보복, 부정직, 부패, 부정직, 불공정, 책임 회피"
+  },
+  {
+    "name": "The Hanged Man",
+    "image_filename": "the_hanged_man.jpg",
+    "upright": "희생, 기다림, 불확실성, 방향성 부족, 관점, 성찰",
+    "reversed": "지연, 무관심, 정체, 희생 회피, 정체, 무관심"
+  },
+  {
+    "name": "Death",
+    "image_filename": "death.jpg",
+    "upright": "변형, 종결, 변화, 전환, 포기, 해방",
+    "reversed": "변화에 대한 두려움, 부정적인 패턴 반복, 변화 저항, 정체, 쇠퇴"
+  },
+  {
+    "name": "Temperance",
+    "image_filename": "temperance.jpg",
+    "upright": "균형, 평화, 인내, 절제, 평온, 평온함, 조화, 평온함",
+    "reversed": "불균형, 과잉, 극단, 불화, 무모함, 성급함"
+  },
+  {
+    "name": "The Devil",
+    "image_filename": "the_devil.jpg",
+    "upright": "억압, 중독, 강박관념, 의존, 과잉, 무력감, 한계",
+    "reversed": "독립, 자유, 계시, 해방, 권력 회복, 통제력 회복"
+  },
+  {
+    "name": "The Tower",
+    "image_filename": "the_tower.jpg",
+    "upright": "재난, 파괴, 격변, 트라우마, 갑작스러운 변화, 혼돈",
+    "reversed": "재난을 피하고, 불가피한 일을 지연하고, 변화에 저항합니다."
+  },
+  {
+    "name": "The Star",
+    "image_filename": "the_star.jpg",
+    "upright": "희망, 영감, 긍정성, 믿음, 쇄신, 치유, 회춘",
+    "reversed": "절망, 좌절, 부정성, 믿음 부족, 낙담"
+  },
+  {
+    "name": "The Moon",
+    "image_filename": "the_moon.jpg",
+    "upright": "환상, 직관, 불확실성, 혼란, 복잡성, 비밀, 무의식",
+    "reversed": "두려움, 기만, 불안, 오해, 오해, 명확성, 이해"
+  },
+  {
+    "name": "The Sun",
+    "image_filename": "the_sun.jpg",
+    "upright": "행복, 성공, 낙관주의, 활력, 기쁨, 자신감, 행복, 진실",
+    "reversed": "행복 차단, 과도한 열정, 비관주의, 비현실적인 기대, 자만심"
+  },
+  {
+    "name": "Judgement",
+    "image_filename": "judgement.jpg",
+    "upright": "자기 평가, 각성, 쇄신, 목적, 반성, 심판",
+    "reversed": "자기 의심, 자기 인식 부족, 교훈을 얻지 못함, 자기 혐오"
+  },
+  {
+    "name": "The World",
+    "image_filename": "the_world.jpg",
+    "upright": "완성, 성취, 성취감, 소속감, 온전함, 조화",
+    "reversed": "마무리 부족, 성취 부족, 불완전함, 공허함"
+  }
+]
